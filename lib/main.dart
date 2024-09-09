@@ -5,7 +5,7 @@ import 'package:firstapp/views/login_view.dart';
 import 'package:firstapp/views/register_view.dart';
 import 'package:firstapp/views/verify_email_view.dart';
 import 'package:flutter/material.dart';
-import 'dart:developer' as devtools show log;
+
 
 
 void main() {
@@ -21,6 +21,7 @@ void main() {
       routes: {
         '/login/': (context) => const LoginView(),
         '/register/': (context) => const RegisterView(),
+        '/notes/': (context) => const NotesView(),
       }
     ));
 }
