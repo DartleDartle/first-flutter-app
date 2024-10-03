@@ -1,4 +1,4 @@
-import 'dart:async';
+/* import 'dart:async';
 
 import 'package:firstapp/extensions/list/filter.dart';
 import 'package:firstapp/services/crud/crud_exceptions.dart';
@@ -350,3 +350,4 @@ const createNoteTable = '''CREATE TABLE "note" (
   FOREIGN KEY("user_id") REFERENCES "user"("id"),
   PRIMARY KEY("id" AUTOINCREMENT)
   );''';
+ */
