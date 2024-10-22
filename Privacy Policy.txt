@@ -1,0 +1,101 @@
+Privacy Policy
+Last Updated: 22/10/2024
+
+This Privacy Policy describes how the personal information of users of the "Our Notes" application (the "App") is collected, used, and protected. The App is managed by Davide Pintore.
+
+1. Personal Data Collected
+To use the App, users must create an account by providing:
+
+Email address
+Password
+The App does not offer an offline mode; therefore, usage of the App always requires a personal account.
+
+2. Data Usage
+The personal data provided by users, such as their email address, is used solely to allow access and use of the App's features, including creating, modifying, and saving personal notes. The notes created by users are stored in our database via the Firebase service.
+
+We do not collect any data for marketing, analytics, or user experience improvement purposes.
+
+3. Data Storage and Sharing
+Users' personal data and notes are stored on Firebase servers, a platform provided by Google. We do not share users' personal data with third parties, except as part of the service offered by Firebase for the proper functioning of the App.
+
+4. Data Security
+The security of users' data is our priority. We implement the following security measures:
+
+Users' credentials (email and password) are never directly exposed to the user via the interface.
+In case of incorrect credentials, we do not specify whether the issue is with the email or password for additional security.
+Personal notes are securely linked to the user's account, and it is not possible to access other users' notes.
+5. Account and Data Deletion
+If a user wishes to delete their account, they must contact the App producer directly (davide.pintore98@gmail.com). When the account is deleted, all notes associated with that account will be permanently deleted from our database.
+
+6. User Rights
+Users can access their notes by logging into the App with their credentials. Within the App, users can create, modify, and delete their notes at any time.
+
+The App currently does not allow users to delete their accounts independently. To do so, users must contact the producer at davide.pintore98@gmail.com.
+
+In case of a lost password, users can request a password reset via the integrated function in the App, which sends a recovery email.
+
+7. Third-Party Tools
+The App exclusively uses Firebase for data storage and authentication. We do not actively collect analytics or user interaction data through Firebase or other tracking tools.
+
+8. Target Audience
+The App is intended for users of all ages. We do not intentionally collect information from users under the age of 13. If we become aware of data collected from a minor without parental consent, such data will be promptly deleted.
+
+9. Cookies and Similar Technologies
+We do not use cookies or tracking technologies within the App. However, Firebase may use similar technologies for functional purposes related to authentication and data storage. We do not collect cookies for marketing or tracking purposes.
+
+Privacy Policy Changes
+We reserve the right to update this Privacy Policy at any time. Changes will be posted in this section and notified to users through App updates. Continued use of the App after such changes implies acceptance of the new Privacy Policy.
+
+For any questions regarding this Privacy Policy, contact us at: davide.pintore98@gmail.com.
+
+
+Normativa sulla Privacy
+Ultimo aggiornamento: 22/10/2024
+
+La presente Normativa sulla Privacy descrive come vengono raccolte, utilizzate e protette le informazioni personali degli utenti dell'applicazione "Our Notes". L'App è gestita da Davide Pintore.
+
+1. Dati personali raccolti
+Per utilizzare l'App, gli utenti devono creare un account fornendo:
+
+Indirizzo email
+Password
+L'App non offre una modalità offline; pertanto, l'uso dell'App richiede sempre un account personale.
+
+2. Uso dei dati
+I dati personali forniti dagli utenti, come l'indirizzo email, vengono utilizzati esclusivamente per permettere l'accesso e l'utilizzo delle funzionalità dell'App, tra cui la creazione, modifica e salvataggio delle note personali. Le note create dagli utenti vengono archiviate nel nostro database tramite il servizio di Firebase.
+
+Non raccogliamo alcun dato per finalità di marketing, analisi o miglioramento dell'esperienza dell'utente.
+
+3. Conservazione e condivisione dei dati
+I dati personali e le note degli utenti sono archiviati nei server di Firebase, una piattaforma fornita da Google. Non condividiamo i dati personali degli utenti con terze parti, se non come parte del servizio offerto da Firebase per il corretto funzionamento dell'App.
+
+4. Sicurezza dei dati
+La sicurezza dei dati degli utenti è una nostra priorità. Implementiamo le seguenti misure di sicurezza:
+
+Le credenziali degli utenti (email e password) non vengono mai esposte direttamente all'utente attraverso l'interfaccia.
+In caso di credenziali errate, non viene specificato quale campo sia sbagliato (email o password) per garantire ulteriore sicurezza.
+Le note personali sono associate in modo sicuro all'account utente, e non è possibile accedere alle note di altri utenti.
+5. Cancellazione dell'account e dei dati
+Se un utente desidera cancellare il proprio account, è necessario contattare direttamente il produttore dell'App (davide.pintore98@gmail.com). Al momento della cancellazione dell'account, tutte le note associate a quell'account verranno eliminate in modo permanente dal nostro database.
+
+6. Diritti degli utenti
+Gli utenti possono accedere alle proprie note accedendo con le proprie credenziali all'App. All'interno dell'App, gli utenti possono creare, modificare ed eliminare le proprie note in qualsiasi momento.
+
+Attualmente, l'App non permette la cancellazione autonoma dell'account. Per farlo, l'utente deve contattare il produttore tramite l'indirizzo email davide.pintore98@gmail.com .
+
+In caso di perdita della password, l'utente può richiedere un reset della password tramite la funzione integrata nell'App, che invia una email per il recupero.
+
+7. Strumenti di terze parti
+L'App utilizza esclusivamente Firebase per l'archiviazione dei dati e l'autenticazione. Non raccogliamo attivamente dati di analisi o interazioni degli utenti tramite Firebase o altri strumenti di tracciamento.
+
+8. Pubblico di destinazione
+L'App è destinata a utenti di tutte le età. Non raccogliamo intenzionalmente informazioni di utenti di età inferiore ai 13 anni. Se dovessimo venire a conoscenza della raccolta di dati da parte di un minore senza il consenso di un genitore o tutore, tali dati saranno eliminati immediatamente.
+
+9. Cookies e tecnologie simili
+Non utilizziamo cookies o tecnologie di tracciamento all'interno dell'App. Tuttavia, Firebase potrebbe utilizzare tecnologie simili per scopi funzionali legati all'autenticazione e all'archiviazione dei dati. Non raccogliamo cookies per scopi di marketing o tracciamento.
+
+Modifiche alla Normativa sulla Privacy
+Ci riserviamo il diritto di aggiornare questa Normativa sulla Privacy in qualsiasi momento. Le modifiche saranno pubblicate in questa sezione e notificate agli utenti tramite aggiornamenti dell'App. L'uso continuato dell'App dopo tali modifiche implica l'accettazione della nuova Normativa sulla Privacy.
+
+Per qualsiasi domanda riguardante questa Normativa sulla Privacy, contattaci all'indirizzo: davide.pintore98@gmail.com.
+
