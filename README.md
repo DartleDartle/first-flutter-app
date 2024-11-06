@@ -78,3 +78,11 @@ This project was an amazing journey through the fundamentals of **Flutter**, **F
 ![34ca5f0d77a357342168caad39ce999e](https://github.com/user-attachments/assets/1cedde33-e78a-443b-b7af-0727c6e61fc9)
 ![9e4bd63512fa59e476582b0b862eb730](https://github.com/user-attachments/assets/72b96914-1fd9-49b5-bc3e-202df68b2cac)
 
+## 🙏 Greetings
+
+I would like to extend my gratitude to Vandad Nahavandipoor and FreeCodeCamp.org for providing such a detailed and comprehensive course for learning Flutter, Dart, Firebase, and much more. The teaching approach is especially valuable for those coming from a graphical interface background, offering a significant contribution to free and open education.
+
+Although the course is two years old, it remains highly relevant for learning the fundamentals of Flutter and for improving skills in code management and organization. It’s an excellent resource, not only for team collaboration but also for application optimization.
+
+Soon I will update my projects and share the things I’ve learned during this period in the world of mobile development.
+
